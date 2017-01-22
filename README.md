@@ -1,6 +1,6 @@
 # Project: Predicting Boston Housing Prices
 ## Goal: Model Evaluation and Validation
-## This report is based on a Udacity Project that is part of the Machine Learning Engineer Nanodegree
+## This report is a modified version of the 'Boston Housing' Udacity Project that is part of the Machine Learning Engineer Nanodegree program
 
 The report is saved in an iPython Notebook format. To review it click on the file Boston_Housing.ipynb.
 
@@ -10,12 +10,12 @@ If you want to run the code in your computer you will need to follow the install
 
 The modified Boston housing dataset consists of 490 data points, with each datapoint having 3 features. This dataset is a modified version of the Boston Housing dataset found on the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Housing).
 
-**Features**
-1.  `RM`: average number of rooms per dwelling
-2. `LSTAT`: percentage of population considered lower status
-3. `PTRATIO`: pupil-student ratio by town
+**Features**  
+1.  `RM`: average number of rooms per dwelling  
+2. `LSTAT`: percentage of population considered lower status  
+3. `PTRATIO`: pupil-student ratio by town  
 
-**Target Variable**
+**Target Variable**  
 4. `MEDV`: median value of owner-occupied homes
 
 ### Install
