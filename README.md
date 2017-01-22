@@ -1,6 +1,6 @@
 # Project: Predicting Boston Housing Prices
-# Model Evaluation and Validation
-## This Report is based on a Udacity Project part of the Machine Learning Engineer Nanodegree
+## Goal: Model Evaluation and Validation
+## This report is based on a Udacity Project that is part of the Machine Learning Engineer Nanodegree
 
 The report is saved in an iPython Notebook format. To review it click on the file Boston_Housing.ipynb.
 
@@ -33,7 +33,7 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 ### Run
 
-In a terminal or command window, navigate to the top-level project directory `boston_housing/` (that contains this README) and run one of the following commands:
+In a terminal or command window, navigate to the top-level project directory that contains this README and run one of the following commands:
 
 ```bash
 ipython notebook boston_housing.ipynb
