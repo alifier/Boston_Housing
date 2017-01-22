@@ -2,7 +2,7 @@
 ## Goal: Model Evaluation and Validation
 ## This report is a modified version of the 'Boston Housing' Udacity Project that is part of the Machine Learning Engineer Nanodegree program
 
-The report is saved in an iPython Notebook format. To review it click on the file Boston_Housing.ipynb.
+The report is saved in an iPython Notebook format. To review it click on the [Boston_Housing.ipynb](./Boston_Housing.ipynb) file.
 
 If you want to run the code in your computer you will need to follow the install and run instructions.
 
