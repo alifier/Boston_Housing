@@ -4,7 +4,7 @@
 
 The report is saved in an iPython Notebook format. To review it click on the [Boston_Housing.ipynb](./Boston_Housing.ipynb) file.
 
-If you want to run the code in your computer you will need to follow the install and run instructions.
+If you want to run the code in your computer you will need to follow the **Install** and **Run** instructions.
 
 ### Data
 
