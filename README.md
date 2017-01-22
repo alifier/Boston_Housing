@@ -1,6 +1,6 @@
 # Project: Predicting Boston Housing Prices
 ## Goal: Model Evaluation and Validation
-## This report is a modified version of the 'Boston Housing' Udacity Project that is part of the Machine Learning Engineer Nanodegree program
+## This report is a modified version of my solution to the 'Boston Housing' Udacity Project that is part of the Machine Learning Engineer Nanodegree program
 
 The report is saved in an iPython Notebook format. To review it click on the [Boston_Housing.ipynb](./Boston_Housing.ipynb) file.
 
